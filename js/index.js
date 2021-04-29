@@ -102,7 +102,5 @@ switchBtn.addEventListener('click', () => {
 
 
 // Animate en Scroll
-AOS.init({
-        once: true,
-        mirror: false
-});
+
+AOS.init();
