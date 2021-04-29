@@ -100,7 +100,3 @@ switchBtn.addEventListener('click', () => {
     switchBtn.classList.toggle('active');
 })
 
-
-// Animate en Scroll
-
-AOS.init();

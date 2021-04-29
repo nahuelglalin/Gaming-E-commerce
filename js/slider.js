@@ -5,13 +5,10 @@ const config = {
     startAt: 0,
     autoplay: 2000,
     hoverpause: true,
-    perView: 4,
+    perView: 3,
     animationDuration: 700,
     animationTimingFunc: "ease-in-out",
     breakpoints:{
-        1200: {
-            perView: 3
-        },
         768: {
             perView: 2
         },

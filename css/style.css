@@ -567,6 +567,10 @@ body.dark .title__container {
     margin: 0 1em;
   }
 
+  #discounts > div.container.aos-init.aos-animate {
+    margin-bottom: 2em;
+  }
+
   span.dot {
     opacity: 0;
   }
